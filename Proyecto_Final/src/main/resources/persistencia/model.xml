@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.9" class="java.beans.XMLDecoder">
+ <object class="co.edu.uniquindio.proyecto_final.proyecto_final.model.Sgre" id="Sgre0">
+  <void property="empleados">
+   <void method="add">
+    <object class="co.edu.uniquindio.proyecto_final.proyecto_final.model.Empleado">
+     <void property="correo">
+      <string>juan.perez@Gmail.com</string>
+     </void>
+     <void property="id">
+      <string>34892</string>
+     </void>
+     <void property="nombre">
+      <string>Juan Pérez</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.proyecto_final.proyecto_final.model.Empleado">
+     <void property="correo">
+      <string>ana.garcia85@gmail.com</string>
+     </void>
+     <void property="id">
+      <string>10273</string>
+     </void>
+     <void property="nombre">
+      <string>Ana García</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.proyecto_final.proyecto_final.model.Empleado">
+     <void property="correo">
+      <string> javier.martinez92@gmail.com</string>
+     </void>
+     <void property="id">
+      <string>45781</string>
+     </void>
+     <void property="nombre">
+      <string>Javier Martínez</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.proyecto_final.proyecto_final.model.Empleado">
+     <void property="correo">
+      <string>m.rodriguez78@gmail.com</string>
+     </void>
+     <void property="id">
+      <string>30894</string>
+     </void>
+     <void property="nombre">
+      <string>María Rodríguez</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.proyecto_final.proyecto_final.model.Empleado">
+     <void property="correo">
+      <string>pablo.lopez89@gmail.com</string>
+     </void>
+     <void property="id">
+      <string>81537</string>
+     </void>
+     <void property="nombre">
+      <string>Pablo López</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.proyecto_final.proyecto_final.model.Empleado">
+     <void property="correo">
+      <string>alex@gmail.com</string>
+     </void>
+     <void property="id">
+      <string>2222</string>
+     </void>
+     <void property="nombre">
+      <string>Alex</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

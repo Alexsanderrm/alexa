@@ -1,0 +1,8 @@
+abr. 17, 2024 6:27:11 P. M. co.edu.uniquindio.proyecto_final.proyecto_final.utils.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: inicioSesion,Inicio de sesión,2024-04-17
+abr. 17, 2024 6:27:28 P. M. co.edu.uniquindio.proyecto_final.proyecto_final.utils.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: inicioSesion,Inicio de sesión,2024-04-17
+abr. 17, 2024 6:35:06 P. M. co.edu.uniquindio.proyecto_final.proyecto_final.utils.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: inicioSesion,Inicio de sesión,2024-04-17
+abr. 17, 2024 6:35:34 P. M. co.edu.uniquindio.proyecto_final.proyecto_final.utils.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: agregarEmpleado,Se agrego el empleadoAlex,2024-04-17
